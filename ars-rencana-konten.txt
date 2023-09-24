@@ -3,6 +3,7 @@ RENCANA KONTEN ARS
 - Javascript
   *ES6
   * Framwork Javascript
+- struktur dasar data
 - PHP Framwork
 - Interview
 - Vlogs
