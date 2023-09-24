@@ -1,4 +1,8 @@
 RENCANA KONTEN ARS
 
--Javascript
+- Javascript
+  *ES6
+  * Framwork Javascript
 - PHP Framwork
+- Interview
+- Vlogs
