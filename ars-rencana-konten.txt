@@ -3,7 +3,10 @@ RENCANA KONTEN ARS
 - Javascript
   *ES6
   * Framwork Javascript
+   ^ Vue
 - struktur dasar data
 - PHP Framwork
+   ^ Laravel
 - Interview
 - Vlogs
+- Phyton
